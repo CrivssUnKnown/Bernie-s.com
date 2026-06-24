@@ -1,0 +1,1 @@
+[2026-06-24 03:26:17] [!!!] ALERT: SQL Injection dari IP ::1 | Target: /Bernie's/index.php?kategori=%27%20OR%20%271%27=%271 | Sumber: URL Parameter (kategori)
